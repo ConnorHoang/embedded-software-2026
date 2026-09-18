@@ -1,0 +1,3 @@
+[submodule "Blinking-FSM-with-STM32"]
+	path = Blinking-FSM-with-STM32
+	url = https://github.com/ConnorHoang/Blinking-FSM-with-STM32.git
